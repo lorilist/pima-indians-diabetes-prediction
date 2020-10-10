@@ -21,7 +21,7 @@ The dataset consists of 8 medical predictors and a target variable, Outcome. Bel
 * Age - Age (years)
 * Outcome - 1/0 flag indicating whether patient developed Diabetes within 5 years
 
-Predictors are reported as of an initial medical visit. The outcome variable reflects follow-up medical visits within and following a five-year period.
+Predictors are reported as of an initial medical visit. The outcome variable reflects follow-up medical visits in the 5+ years following the initial visit.
 
 **Resources:** <br>
 [Kaggle Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database) <br>
