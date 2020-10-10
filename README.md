@@ -16,7 +16,7 @@ The dataset consists of 8 medical predictors and a target variable, Outcome. Bel
 * BloodPressure - Diastolic Blood Pressure (mm Hg)
 * SkinThickness - Triceps Skin Fold Thickness (mm)
 * Insulin - 2-Hour Serum insulin (uU/ml)
-* BMI - Body Mass Index (Weight in kg/(Height in m)^2)
+* BMI - Body Mass Index (Weight in kg/(Height in m<sup>2</sup>))
 * DiabetesPedigreeFunction - A custom indicator of diabetes hitory in relatives, built for study
 * Age - Age (years)
 * Outcome - 1/0 flag indicating whether patient developed Diabetes within 5 years
