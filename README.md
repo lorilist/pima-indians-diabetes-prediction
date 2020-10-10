@@ -2,7 +2,7 @@
 **Background:** <br>
 In 1988, Smith et al. published 'Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus,' a forecast of Diabetes onset for a high risk population of Pima Indian women, age 21+. Given the sample size is small and underlying functional relationship unknown for data features, the researchers believed traditional statistical approaches would yield disappointint results - Instead, the researchers used an early neural network model, ADAP. <br>
 
-In this notebook, we will examine the deidentified study data and build a few models.
+In this notebook, we will examine the study data, build a few models, and assess performance. **_Work in Progress_**
 
 
 **Objective:** <br>
